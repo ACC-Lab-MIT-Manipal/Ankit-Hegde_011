@@ -41,7 +41,7 @@ void affine_decrypt(char *ciphertext, int key_a, int key_b) {
 }
 
 int main() {
-    char plaintext[] = "Apeksha";
+    char plaintext[] = "Ankit";
     char ciphertext[100];
     int key_a = 5, key_b = 8;
 
